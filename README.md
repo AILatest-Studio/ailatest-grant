@@ -66,6 +66,10 @@
 
 ---
 
+### 🏷 Related Topics & Search Keywords
+`nsfc-grant` · `nssf-grant` · `china-research-fund` · `national-natural-science-foundation` · `academic-grant-database` · `ai-grant-optimization` · `funding-deadline-calendar` · `research-intelligence` · `pi-projects`
+
+---
 <a id="chinese"></a>
 <p align="right">
   <a href="#top"><b>Back to Top (English)</b></a> | <b>中文说明</b>
@@ -92,3 +96,6 @@
    - 掌握人工智能、新质生产力、数字经济等前沿赛道的立项演变与各高校学科获批实力。
 
 🌐 **立即在线体验**：[**https://grant.ailatest.org/**](https://grant.ailatest.org/)
+
+### 🏷 热门搜索关键词与相关主题
+`国家自然科学基金` · `国自然查询` · `国社科立项查询` · `教育部人文社科` · `基金立项检索` · `基金申报日历` · `AI课题申报优化` · `标书撰写` · `自科基金` · `社科基金` · `高校科研立项` · `博士后基金`
