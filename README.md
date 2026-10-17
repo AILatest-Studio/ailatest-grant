@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://grant.ailatest.org/"><img src="https://img.shields.io/badge/Live_Site-grant.ailatest.org-8b5cf6?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
-  <a href="https://ailatest.org/projects/grant/"><img src="https://img.shields.io/badge/Studio_Page-Grant-purple?style=for-the-badge" alt="Studio"></a>
+  <a href="https://grant.ailatest.org/"><img src="https://img.shields.io/badge/立即检索-grant.ailatest.org-8b5cf6?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
+  <a href="https://ailatest.org/projects/grant/"><img src="https://img.shields.io/badge/产品介绍页-Grant-purple?style=for-the-badge" alt="Studio"></a>
 </p>
 
 ---
@@ -21,13 +21,13 @@
   </a>
 </p>
 
-### 2. 真实在线界面截图 (Live Application Screenshot)
+### 2. 真实在线界面截图 (Live Application Interface)
 <p align="center">
   <a href="https://grant.ailatest.org/">
     <img src="assets/screenshots/preview.png" alt="Grant 真实在线界面截图" width="920">
   </a>
 </p>
-<p align="center"><em>界面截图截取自线上生产环境 <a href="https://grant.ailatest.org/">grant.ailatest.org</a>。</em></p>
+<p align="center"><em>界面截图截取自线上站点 <a href="https://grant.ailatest.org/">grant.ailatest.org</a>。</em></p>
 
 ---
 
